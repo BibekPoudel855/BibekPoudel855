@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Bibek Poudel 👋  
 
-<!--
-**BibekPoudel855/BibekPoudel855** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me  
+I'm a developer who enjoys exploring new technologies and building creative solutions.  
 
-Here are some ideas to get you started:
+## Interests & Hobbies  
+- Coding & problem-solving  
+- Playing Valorant & Minecraft  
+- Designing for platforms like Blink Store  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills  
+- JavaScript, React, HTML, CSS, C, PHP
+- Backend development & databases, Basic (Node, SQL)  
+- Basic API handling & web development  
+- Learning Python & improving Java skills
+- Exploring New Gadget 
+
+## Why I Want to Join the Developers' Community  
+I want to collaborate with like-minded developers, learn from real-world projects, and contribute to a thriving community. I believe this will help me grow as a developer while also sharing my knowledge with others.  
