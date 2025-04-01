@@ -1,4 +1,4 @@
-# Hi, I'm Bibek Poudel 👋  
+# Hi, I'm Bibek Poudel From ICP Second Sem C1 👋  
 
 ## About Me  
 I'm a developer who enjoys exploring new technologies and building creative solutions.  
